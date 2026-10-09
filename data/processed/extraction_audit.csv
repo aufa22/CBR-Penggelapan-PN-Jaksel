@@ -1,0 +1,31 @@
+case_id,file_name,no_perkara,pasal_mention,candidate_months,sentence_excerpt,label_status
+case_001,case_001.txt,1099 pid 2009 pn jkt sel,pasal 378 kuhp,10.0,10 sepuluh bulan,heuristic_requires_review
+case_002,case_002.txt,1108 pid 2013 pn jkt sel,pasal 372 kuhp,12.0,1 satu tahun,heuristic_requires_review
+case_003,case_003.txt,1305 pid 2017 pn jkt sel,pasal 372 kuhp,6.0,6 enam bulan,heuristic_requires_review
+case_004,case_004.txt,1328 pid 2014 pn jkt sel,pasal 372 kuhp,7.0,7 tujuh bulan,heuristic_requires_review
+case_005,case_005.txt,1408 pid 2013 pn jkt sel,pasal 372 kuhp,20.0,1 satu tahun dan 8 delapan bulan,heuristic_requires_review
+case_006,case_006.txt,1414 pid 2017 pn jkt sel,pasal 372 kuhp,20.0,1 satu tahun 8 delapand bulan,heuristic_requires_review
+case_007,case_007.txt,1505 pid 2018 pn jkt sel,pasal 372 kuhp,24.0,2 dua tahun,heuristic_requires_review
+case_008,case_008.txt,205 pid 2014 pn jkt sel,pasal 372 kuhp,8.0,8 delapan bulan,heuristic_requires_review
+case_009,case_009.txt,213 pid 2021 pn jkt sel,pasal 372 kuhp,30.0,2 dua tahun 6 enam bulan,heuristic_requires_review
+case_010,case_010.txt,245 pid 20123 pn jkt sel,pasal 372 kuhp,10.0,10 sepuluh bulan,heuristic_requires_review
+case_011,case_011.txt,269 pid 2013 pn jkt sel,pasal 372 kuhp,7.0,7 tujuh bulan,heuristic_requires_review
+case_012,case_012.txt,286 pid 2021 pn jkt sel,pasal 372 kuhp,24.0,2 dua tahun,heuristic_requires_review
+case_013,case_013.txt,361 pid 2010 pn jkt sel,pasal 372 kuhp,18.0,1 satu tahun 6 enam bulan,heuristic_requires_review
+case_014,case_014.txt,409 pid 2013 pn jkt sel,pasal 372 kuhp,30.0,2 dua tahun dan 6 enamr bulan,heuristic_requires_review
+case_015,case_015.txt,441 pid 2023 pn jkt sel,pasal 372 kuhp,27.0,2 dua tahun 3 tiga bulan,heuristic_requires_review
+case_016,case_016.txt,456 pid 2021 pn jkt sel,pasal 372 kuhp,18.0,1 satu tahun dan 6 enam bulan,heuristic_requires_review
+case_017,case_017.txt,501 pid 2023 pn jkt sel,pasal 378 kuhp,24.0,2 dua tahun,heuristic_requires_review
+case_018,case_018.txt,508 pid 2021 pn jkt sel,pasal 372 kuhp,9.0,9 sembilan bulan,heuristic_requires_review
+case_019,case_019.txt,555 pid 2023 pn jkt sel,pasal 372 kuhp,22.0,1 satu tahun dan 10 sepuluh bulan,heuristic_requires_review
+case_020,case_020.txt,586 pid 2013 pn jkt sel,pasal 372 kuhp,,1 satu tahun dan 2 dua bnulan 3 menetapkan masa penangkapan dan penahanan yaing telah dijalani terdakwa dikurangkan seluruhnya dari pidana yan dijatuh,unparsed
+case_021,case_021.txt,590 pid 2018 pn jkt sel,pasal 372 kuhp,30.0,2 dua tahun dan 6 enam bulan,heuristic_requires_review
+case_022,case_022.txt,629 pid 2021 pn jkt sel,pasal 372 kuhp,,tahun 3 menetapkan masa penahanan yang telah idijalani oleh terdakwa dikurangkan seluruhnya dari pidana yang dibjatuhkan 4 memerintahkan terdakwa teta,unparsed
+case_023,case_023.txt,738 pid 2013 pn jkt sel,pasal 372 kuhp,8.0,8 delapan bulan,heuristic_requires_review
+case_024,case_024.txt,745 pid 2012 pn jkt sel,pasal 372 kuhp,12.0,1 satu tahun,heuristic_requires_review
+case_025,case_025.txt,768 pid 2013 pn jkt sel,pasal 372 kuhp,24.0,2 dua tahun,heuristic_requires_review
+case_026,case_026.txt,795 pid 2015 pn jkt sel,pasal 372 kuhp,30.0,2 tahun dan 6 bulan,heuristic_requires_review
+case_027,case_027.txt,823 pid 2012 pn jkt sel,pasal 372 kuhp,12.0,1 satu tahun,heuristic_requires_review
+case_028,case_028.txt,841 pid 2013 pn jkt sel,pasal 372 kuhp,8.0,8 dela pan bulan,heuristic_requires_review
+case_029,case_029.txt,992 pid 2012 pn jkt sel,pasal 372 kuhp,2.0,2 dua bulan,heuristic_requires_review
+case_030,case_030.txt,998 pid 2014 pn jkt sel,pasal 372 kuhp,10.0,10 sepuluh bulan,heuristic_requires_review

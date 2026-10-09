@@ -1,0 +1,6 @@
+case_id,file_name,no_perkara,pasal_mention,candidate_months,sentence_excerpt,label_status,similarity
+case_025,case_025.txt,768 pid 2013 pn jkt sel,pasal 372 kuhp,,2 dua tahun 3 menetapkan masa penahanan yang telah dijalani terdakwa ikurangkan seluruhnya dari pidana yang dijatuhkan 4 menyatakan terdakwa tetap ber,unparsed,0.28653790050201594
+case_028,case_028.txt,841 pid 2013 pn jkt sel,pasal 372 kuhp,8.0,8 dela pan bulan,heuristic_requires_review,0.2713065417218963
+case_026,case_026.txt,795 pid 2015 pn jkt sel,pasal 372 kuhp,30.0,2 tahun dan 6 bulan,heuristic_requires_review,0.2639550603529845
+case_009,case_009.txt,213 pid 2021 pn jkt sel,pasal 372 kuhp,30.0,2 dua tahun 6 enam bulan,heuristic_requires_review,0.2473843432408372
+case_017,case_017.txt,501 pid 2023 pn jkt sel,pasal 378 kuhp,24.0,2 dua tahun,heuristic_requires_review,0.24202142311432198

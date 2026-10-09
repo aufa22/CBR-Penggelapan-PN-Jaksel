@@ -1,0 +1,5 @@
+Metric,Value
+Hit@5,0.1
+Recall@5,0.1
+Precision@5,0.02
+MRR@5,0.02

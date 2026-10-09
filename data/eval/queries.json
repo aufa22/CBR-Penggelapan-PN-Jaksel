@@ -1,0 +1,52 @@
+[
+  {
+    "query": "Terdakwa melakukan penggelapan uang perusahaan",
+    "ground_truth": "1099 pid 2009 pn jkt sel",
+    "actual_solution": 2
+  },
+  {
+    "query": "Terdakwa menguasai dana korban untuk kepentingan pribadi",
+    "ground_truth": "1108 pid 2013 pn jkt sel",
+    "actual_solution": 2
+  },
+  {
+    "query": "Terdakwa menyalahgunakan uang yang dipercayakan kepadanya",
+    "ground_truth": "1305 pid 2017 pn jkt sel",
+    "actual_solution": 6
+  },
+  {
+    "query": "Terdakwa menggunakan dana milik orang lain tanpa izin",
+    "ground_truth": "1328 pid 2014 pn jkt sel",
+    "actual_solution": 9
+  },
+  {
+    "query": "Terdakwa menggelapkan uang perusahaan untuk keuntungan pribadi",
+    "ground_truth": "1408 pid 2013 pn jkt sel",
+    "actual_solution": 1
+  },
+  {
+    "query": "Terdakwa tidak menyerahkan uang yang menjadi hak perusahaan",
+    "ground_truth": "1414 pid 2017 pn jkt sel",
+    "actual_solution": 2
+  },
+  {
+    "query": "Terdakwa menggunakan hasil penjualan untuk kepentingan pribadi",
+    "ground_truth": "1505 pid 2018 pn jkt sel",
+    "actual_solution": 2
+  },
+  {
+    "query": "Terdakwa menguasai uang milik korban secara melawan hukum",
+    "ground_truth": "205 pid 2014 pn jkt sel",
+    "actual_solution": 1
+  },
+  {
+    "query": "Terdakwa menerima titipan uang namun tidak mengembalikannya",
+    "ground_truth": "213 pid 2021 pn jkt sel",
+    "actual_solution": 2
+  },
+  {
+    "query": "Terdakwa menyimpan dan menggunakan dana yang dipercayakan kepadanya",
+    "ground_truth": "245 pid 20123 pn jkt sel",
+    "actual_solution": 10
+  }
+]

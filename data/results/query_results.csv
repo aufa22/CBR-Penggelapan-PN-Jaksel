@@ -1,0 +1,11 @@
+query_id,query,target_case_id,rank_at_k,hit_at_k,reciprocal_rank_at_k,precision_at_k,candidate_prediction_months,top_case_ids,legacy_actual_solution
+1,Terdakwa melakukan penggelapan uang perusahaan,case_001,,0,0.0,0.0,12,"case_024, case_028, case_006, case_020, case_012",2
+2,Terdakwa menguasai dana korban untuk kepentingan pribadi,case_002,,0,0.0,0.0,24,"case_012, case_004, case_014, case_028, case_020",2
+3,Terdakwa menyalahgunakan uang yang dipercayakan kepadanya,case_003,,0,0.0,0.0,8,"case_028, case_023, case_011, case_006, case_018",6
+4,Terdakwa menggunakan dana milik orang lain tanpa izin,case_004,,0,0.0,0.0,24,"case_014, case_028, case_006, case_007, case_012",9
+5,Terdakwa menggelapkan uang perusahaan untuk keuntungan pribadi,case_005,,0,0.0,0.0,12,"case_024, case_011, case_028, case_020, case_015",1
+6,Terdakwa tidak menyerahkan uang yang menjadi hak perusahaan,case_006,5.0,1,0.2,0.2,8,"case_028, case_024, case_011, case_023, case_006",2
+7,Terdakwa menggunakan hasil penjualan untuk kepentingan pribadi,case_007,,0,0.0,0.0,8,"case_020, case_028, case_010, case_012, case_021",2
+8,Terdakwa menguasai uang milik korban secara melawan hukum,case_008,,0,0.0,0.0,24,"case_012, case_004, case_006, case_028, case_018",1
+9,Terdakwa menerima titipan uang namun tidak mengembalikannya,case_009,,0,0.0,0.0,7,"case_011, case_020, case_028, case_006, case_012",2
+10,Terdakwa menyimpan dan menggunakan dana yang dipercayakan kepadanya,case_010,,0,0.0,0.0,8,"case_028, case_014, case_023, case_026, case_006",10
